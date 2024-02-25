@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="/Users/renato/Desktop/ME/BB5FEAA2-C6B8-448F-9F5B-7BE6C0BB9D70.JPEG" class="rounded mx-auto d-block" alt="...">    
+![](BB5FEAA2-C6B8-448F-9F5B-7BE6C0BB9D70.JPEG)
 <br>
 <br>
 
