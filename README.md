@@ -1,5 +1,3 @@
-<!doctype html>
-<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -68,6 +66,8 @@
   <br>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Mis herramientas de trabajo
 <p align="left">
+<br>
+<br>
 
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
